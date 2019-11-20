@@ -1,1 +1,34 @@
 @import '~bootstrap/scss/bootstrap';
+
+$black: #000;
+$green: #080;
+$light-blue: #ade;
+$red: #f00;
+
+.box {
+  align-items: center;
+  background-color: $light-blue;
+  border: 1px solid $black;
+  display: flex;
+  height: 80px;
+  justify-content: center;
+}
+
+.failure {
+  color: $red;
+}
+
+.game-board-container {
+  max-width: 1700px;
+  min-width: 300px;
+  width: 50%;
+
+}
+
+.no-display {
+  display: none;
+}
+
+.success {
+  color: $green;
+}
