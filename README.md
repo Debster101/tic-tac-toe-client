@@ -32,7 +32,7 @@ Link: https://imgur.com/a/0Z1xNOu
 User Stories
 --------------------------------------------------------------------------------
 
-*As a user, should be able to sign up,
+* As a user, should be able to sign up,
 *As a user, should sign in/login
 *As a user, should be able to sign out.
 *The user can reset password, if needed.
